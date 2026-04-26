@@ -1,0 +1,22 @@
+{
+  "qrvid": "QRV-CERT-000001",
+  "scheme": "QRV",
+  "recordType": "certificate",
+  "issuer": {
+    "name": "QR-V Global Verification Network",
+    "id": "QRV-ISSUER-000001"
+  },
+  "subject": {
+    "name": "Demo Certificate Holder"
+  },
+  "title": "QR-V Verified Certificate Demo",
+  "status": "VERIFIED",
+  "issuedDate": "2026-04-25",
+  "expirationDate": null,
+  "verificationUrl": "https://verify.qrv.network/QRV-CERT-000001",
+  "hash": "SHA256:DEMO-CERT-000001",
+  "signature": "DEMO-SIGNATURE-CERT-000001",
+  "timestamp": "2026-04-25T17:36:00-04:00",
+  "privacyLevel": "public",
+  "disclaimer": "QR-V verifies the registry status, issuer record, and integrity reference for this demo record."
+}
