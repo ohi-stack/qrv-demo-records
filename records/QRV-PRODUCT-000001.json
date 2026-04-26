@@ -1,0 +1,20 @@
+{
+  "qrvid": "QRV-PRODUCT-000001",
+  "scheme": "QRV",
+  "recordType": "product",
+  "issuer": {
+    "name": "QR-V Global Verification Network",
+    "id": "QRV-ISSUER-000001"
+  },
+  "product": {
+    "name": "Demo Authenticated Product",
+    "sku": "DEMO-SKU-000001"
+  },
+  "status": "VERIFIED",
+  "issuedDate": "2026-04-25",
+  "verificationUrl": "https://verify.qrv.network/QRV-PRODUCT-000001",
+  "hash": "SHA256:DEMO-PRODUCT-000001",
+  "signature": "DEMO-SIGNATURE-PRODUCT-000001",
+  "timestamp": "2026-04-25T17:36:00-04:00",
+  "privacyLevel": "public"
+}
