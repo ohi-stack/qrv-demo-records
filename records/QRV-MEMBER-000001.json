@@ -1,0 +1,20 @@
+{
+  "qrvid": "QRV-MEMBER-000001",
+  "scheme": "QRV",
+  "recordType": "membership",
+  "issuer": {
+    "name": "QR-V Global Verification Network",
+    "id": "QRV-ISSUER-000001"
+  },
+  "subject": {
+    "name": "Demo Member"
+  },
+  "membershipTier": "Founding",
+  "status": "VERIFIED",
+  "issuedDate": "2026-04-25",
+  "verificationUrl": "https://verify.qrv.network/QRV-MEMBER-000001",
+  "hash": "SHA256:DEMO-MEMBER-000001",
+  "signature": "DEMO-SIGNATURE-MEMBER-000001",
+  "timestamp": "2026-04-25T17:36:00-04:00",
+  "privacyLevel": "public"
+}
